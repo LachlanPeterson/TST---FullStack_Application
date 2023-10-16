@@ -22,10 +22,6 @@
 #### Username: elitecoach
 #### Password: foobar
 
-[R11 Link to Front End Repo](https://github.com/arharutyu/Tumble-Skills-Tracker)
-
-[R11 Link to Back End Repo](https://github.com/mpichlmann/T3A2-Backend)
-
 - [R8 Evidence of User Testing](#r8-evidence-of-user-testing)
 - [R9 Formal Testing Framework](#r9-formal-testing-framework)
 - [R13 Trello Board](#r13-trello-board)
