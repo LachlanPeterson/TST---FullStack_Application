@@ -1,0 +1,41 @@
+#root {
+  margin: auto;
+  margin-top: 4em;
+  text-align: center;
+  vertical-align: top;
+}
+
+#admin {
+  position: fixed;
+  top: 5rem;
+  right: 10%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.card {
+  min-width: fit-content;
+  padding: auto;
+  margin: auto;
+}
+
+/*INNER PAGE BACKGROUND COLOUR*/
+.contcontainer {
+  background-color: #ffffff !important; 
+  padding-top: 2em;
+  padding-bottom: 2em;
+  min-height: 95vh;
+  min-width: 75vw;
+}
+
+.left-aligned-list {
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+
+.left-aligned-list li {
+  margin-left: 1em;
+  vertical-align: top;
+}

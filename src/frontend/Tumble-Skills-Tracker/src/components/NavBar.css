@@ -1,0 +1,9 @@
+.container {
+  width: 100%
+}
+
+.custom-logo {
+  background-color: #ffffff;
+  margin-left: 1rem;
+  border-radius: 10px;
+}

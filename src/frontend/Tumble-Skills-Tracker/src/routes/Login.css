@@ -1,0 +1,36 @@
+#login {
+  min-width: fit-content !important;
+  background-color: #ffffff !important;
+  padding: 4rem 1rem !important;
+  border-radius: 10px;
+  border: #13A89E solid;
+  margin: auto;
+  justify-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#login-form {
+  max-width: 350px;
+  margin: auto;
+}
+
+.error-message {
+  padding: 20px 0;
+  font-weight: bold; 
+  color: red; 
+}
+
+/*INNER PAGE BACKGROUND COLOUR */
+#login-bg {
+  background-color: #FCB16B; 
+  min-height: 100vh ;
+  min-width: 100vw ;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
