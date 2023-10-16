@@ -18,10 +18,6 @@
 
 ## [R10 Link to Deployed App](https://tumbleskillstracker.netlify.app/)
 
-### Login Details for Admin User
-#### Username: eliteadmin
-#### Password: spameggs
-
 ### Login Details for Non-Admin User
 #### Username: elitecoach
 #### Password: foobar
