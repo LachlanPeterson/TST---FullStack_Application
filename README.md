@@ -12,7 +12,7 @@
 - [R5 Wireframes for multiple standard screen sizes](#r5-wireframes-for-multiple-standard-screen-sizes)
 - [R6 Trello Board](#r6-trello-board)
 
-[Part A GitHub Repo](https://github.com/arharutyu/T3A2-A#t3a2-a---full-stack-app-part-a)
+[Part A GitHub Repo](https://github.com/LachlanPeterson/TST-Planning)
 
 ### Part B 
 
